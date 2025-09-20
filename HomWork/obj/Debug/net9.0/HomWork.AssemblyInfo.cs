@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570b9cbc6ee19a4c89f281ae8cf60c0a6c9fea8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8e571dd69777a1aae5932b98ccc36769b978adc")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomWork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

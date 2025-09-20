@@ -1,0 +1,15 @@
+/Users/appleuser/RiderProjects/git-for-me/HomWork/bin/Debug/net9.0/HomWork
+/Users/appleuser/RiderProjects/git-for-me/HomWork/bin/Debug/net9.0/HomWork.deps.json
+/Users/appleuser/RiderProjects/git-for-me/HomWork/bin/Debug/net9.0/HomWork.runtimeconfig.json
+/Users/appleuser/RiderProjects/git-for-me/HomWork/bin/Debug/net9.0/HomWork.dll
+/Users/appleuser/RiderProjects/git-for-me/HomWork/bin/Debug/net9.0/HomWork.pdb
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/HomWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/HomWork.AssemblyInfoInputs.cache
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/HomWork.AssemblyInfo.cs
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/HomWork.csproj.CoreCompileInputs.cache
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/HomWork.sourcelink.json
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/HomWork.dll
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/refint/HomWork.dll
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/HomWork.pdb
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/HomWork.genruntimeconfig.cache
+/Users/appleuser/RiderProjects/git-for-me/HomWork/obj/Debug/net9.0/ref/HomWork.dll
